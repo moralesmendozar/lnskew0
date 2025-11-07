@@ -1,3 +1,11 @@
+# Section 6
+
+# Ave Maria University
+
+This whole repository is for multiple linear regression, it is part of the Introduction to Applied Statistics
+
+It includes importantly the following function, found under the file: lnskew0.r:
+
 # lnskew0
 r adaptation/replica of lnskew0 Stata function
 
